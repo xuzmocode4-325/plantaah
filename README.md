@@ -38,7 +38,7 @@ Geospatial analytics driven eco-agriculture AI # Product Requirements Document (
 #### **Primary: Ecological Farmer (60% of users)**
 | Attribute | Details |
 |-----------|---------|
-| **Demographics** | Cape Town, Western Cape, ZA (user location) |
+| **Demographics** | Rurual & Suburban area dwellers (ZA, initially, eventually worldwide) |
 | **Goals** | Start eco-farming on new land, optimize crop selection, understand soil/climate constraints |
 | **Constraints** | Limited budget, no GIS expertise, needs quick actionable insights |
 | **Tech proficiency** | Medium (uses email, mobile apps, basic web) |

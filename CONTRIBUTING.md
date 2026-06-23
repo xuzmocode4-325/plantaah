@@ -36,4 +36,4 @@ Be respectful, inclusive, and collaborative. Harassment, discrimination, or abus
 
 ## Questions
 
-Contact the maintainers through the project issue tracker or the project email address.i
+Contact the maintainers through the project issue tracker or the project email address.

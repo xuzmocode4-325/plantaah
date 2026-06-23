@@ -1,7 +1,7 @@
-# planta
+# plantaah
 Geospatial analytics driven eco-agriculture AI # Product Requirements Document (PRD)
 
-## **Planta Eco-Farming Context Analyzer**
+## **Plantaah Eco-Farming Context Analyzer**
 
 ***
 
@@ -9,10 +9,10 @@ Geospatial analytics driven eco-agriculture AI # Product Requirements Document (
 
 | Attribute | Description |
 |-----------|-------------|
-| **Product Name** | Planta Eco-Farming Context Analyzer |
+| **Product Name** | Plantaah Eco-Farming Context Analyzer |
 | **Version** | 1.0 (Draft) |
 | **Target Launch** | Q3 2026 |
-| **Owner** | Planta Team |
+| **Owner** | Plantaah Team |
 | **Problem** | Landscape architects and ecological farmers lack quick, automated access to site-specific contextual analysis data needed for eco-farming design decisions [1][2] |
 | **Solution** | Single-page app that accepts minimal input (project name, email, polygon boundary), automates 90% of contextual analysis via APIs, and delivers a free 1-year personalized eco-farming guide via email [3][4][5] |
 | **Value Proposition** | "Get your site-specific eco-farming guide in 5 minutes—no manual data collection required" |

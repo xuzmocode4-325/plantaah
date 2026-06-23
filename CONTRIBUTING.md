@@ -1,4 +1,4 @@
-# Contributing to Planta Eco-Farming Context Analyzer
+# Contributing to Plantaah Eco-Farming Context Analyzer
 
 Thank you for your interest in contributing to Planta. This project is open source and welcomes code, documentation, testing, design, and issue-reporting contributions that support the open-source core.
 
@@ -28,7 +28,7 @@ By submitting a contribution, you agree that your contribution will be licensed 
 
 ## Security Issues
 
-Do not open public issues for security vulnerabilities. Report them privately to the maintainers using the designated security contact.
+Do not open public issues for security vulnerabilities. Report them privately to the maintainers using the designated  security contact.
 
 ## Code of Conduct
 
@@ -36,4 +36,4 @@ Be respectful, inclusive, and collaborative. Harassment, discrimination, or abus
 
 ## Questions
 
-Contact the maintainers through the project issue tracker or the project email address.
+Contact the maintainers through the project issue tracker or the project email address.i

@@ -36,11 +36,19 @@ Open-source donations and sponsorships do not automatically purchase commercial 
 
 If available, you may support Plantaah through one or more of the following:
 
-- Donation links listed in the repository or project website.
-- Sponsorship arrangements described in `SPONSORSHIP.md`.
-- GitHub Sponsors or other funding platforms.
-- Commercial subscriptions or API usage plans described in `COMMERCIAL_TERMS.md`.
-- Grant or fiscal sponsorship arrangements approved by the project.
+- **GitHub Sponsors**: [https://github.com/sponsors/xuzmocode4-325](https://github.com/sponsors/xuzmocode4-325)
+- **Donation links**: Listed in the repository or [project website](URL_HERE)
+- **Sponsorship arrangements**: Described in `SPONSORSHIP.md`
+- **Other funding platforms**: Open Collective, Ko-fi, or PayPal (see below)
+- **Commercial subscriptions**: API usage plans described in `COMMERCIAL_TERMS.md`
+- **Grant or fiscal sponsorship**: Arrangements approved by the project
+
+### Direct Funding Links
+
+- **GitHub Sponsors**: [https://github.com/sponsors/xuzmocode4-325](https://github.com/sponsors/xuzmocode4-325)
+- **PayPal**: [https://www.paypal.com/paypalme/PLACEHOLDER](https://www.paypal.com/paypalme/PLACEHOLDER) *(Update with your PayPal link)*
+- **Open Collective**: [https://opencollective.com/PLACEHOLDER](https://opencollective.com/PLACEHOLDER) *(Update with your Open Collective username)*
+- **Ko-fi**: [https://ko-fi.com/PLACEHOLDER](https://ko-fi.com/PLACEHOLDER) *(Update with your Ko-fi username)*
 
 ## 4. Use of Funds
 
@@ -58,7 +66,7 @@ Funds may be used for:
 
 Plantaah aims to manage funding transparently and in line with project governance.
 
-Material funding decisions should be made according to the project’s governance process and any applicable nonprofit or stewardship rules.
+Material funding decisions should be made according to the project's governance process and any applicable nonprofit or stewardship rules.
 
 ## 6. No Control Rights
 
@@ -82,6 +90,8 @@ Plantaah may decline restricted funding that conflicts with the project mission 
 
 If you want to fund, sponsor, or otherwise support Plantaah, contact the project through the official project email or the funding links listed in the repository.
 
+**Contact**: [PLACEHOLDER@example.com](mailto:PLACEHOLDER@example.com) *(Update with your email)*
+
 ## 9. Related Documents
 
 See also:
@@ -94,4 +104,4 @@ See also:
 
 ## 10. Changes
 
-This document may be updated from time to time as Plantaah’s funding options evolve.
+This document may be updated from time to time as Plantaah's funding options evolve.

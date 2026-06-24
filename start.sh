@@ -1,6 +1,3 @@
 #!/bin/bash
-# Build frontend for production
-cd frontend && npm run build && cd ..
-
-# Serve both: FastAPI serves the Vue build as static files + API
-python -m uvicorn backend.main:app --host 0.0.0.0 --port 5000
+# Build frontend for production only — uvicorn is started separately by the run command
+cd frontend && npm run build
